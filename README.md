@@ -1,4 +1,4 @@
-# B CELL DEPLETION THERAPY DOES NOT RESOLVE CHRONIC ACTIVE MULTIPLE SCLEROSIS LESIONS
+## B CELL DEPLETION THERAPY DOES NOT RESOLVE CHRONIC ACTIVE MULTIPLE SCLEROSIS LESIONS
 Pietro Maggi,1,2,3 Colin Vanden Bulcke,2 Edoardo Pedrini,4 Céline Bugli,5 Amina Sellimi,1 Maxence Wynen,2 Anna Stölting,2 William A. Mullins,6 Grigorios Kalaitzidis,8 Valentina Lolli,7 Gaetano Perrotta,7 Souraya El Sankari,1 Thierry Duprez,1 Xu Li,8 Peter A. Calabresi,8 Vincent van Pesch,1 Daniel S. Reich,6 and Martina Absinta4,8
 
 1 Cliniques Universitaires Saint-Luc, Université Catholique de Louvain, Brussels, Belgium. 
@@ -16,7 +16,6 @@ Pietro Maggi,1,2,3 Colin Vanden Bulcke,2 Edoardo Pedrini,4 Céline Bugli,5 Amina
 7 Hôpital Erasme, Université Libre de Bruxelles, Bruxelles, Belgium. 
 
 8 Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD, USA. 
-
 
 ## ABSTRACT
 ### Background
