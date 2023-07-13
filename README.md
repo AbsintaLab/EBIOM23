@@ -1,6 +1,6 @@
 The publication is open access at https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00266-9/fulltext
 
-The codes used in this publication are available here (see azimuth, propeller and virtual_KO folders).
+The codes used in this publication are available here (see azimuth, propeller and simulations folders).
 
 ### B CELL DEPLETION THERAPY DOES NOT RESOLVE CHRONIC ACTIVE MULTIPLE SCLEROSIS LESIONS
 Pietro Maggi, Colin Vanden Bulcke, Edoardo Pedrini, Céline Bugli, Amina Sellimi, Maxence Wynen, Anna Stölting, William A. Mullins, Grigorios Kalaitzidis, Valentina Lolli, Gaetano Perrotta, Souraya El Sankari, Thierry Duprez, Xu Li, Peter A. Calabresi, Vincent van Pesch, Daniel S. Reich, and Martina Absinta
